@@ -1,5 +1,4 @@
 ---
 title: Welcome to my blog
-- [ ] Are U OK?
 ---
-
+- [ ] Are U OK?
